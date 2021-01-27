@@ -35,4 +35,5 @@
         Return temp
     End Function
     'test
+    'test 2
 End Module
